@@ -1,0 +1,7 @@
+For this little project you need :
+- an arduino nano (or a clone), it works also with uno (but no schematic)
+- a hcsr04
+- a lcd screen
+- breadboard and wire
+
+You need also arduino software
